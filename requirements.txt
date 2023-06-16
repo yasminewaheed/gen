@@ -1,0 +1,9 @@
+gunicorn
+music21==8.1.0
+keras==2.12.0
+numpy==1.23.5
+Flask==2.2.3
+music21
+keras
+tensorflow
+flask
